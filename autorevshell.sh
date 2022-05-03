@@ -1,10 +1,10 @@
 #!/bin/bash
-echo "********************* autorevshell ***************"
+echo "***************** autorevshell *******************"
 echo "***** Copyright (C) 2022 lstn196 (author) ********"
 echo "************** date: 03.28.2022  *****************"
 #1. Automating a revshell ("bash -i" example)
 #2. Function of choosing more types of reverse shells will be inserted
-sleep 2
+sleep 1
 echo "
  _________________________________________________________
 |                                                         |
