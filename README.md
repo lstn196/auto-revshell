@@ -1,2 +1,2 @@
 # auto-revshell
-Automating of making a reverse shell and opening a listener on it.
+This script utomatically makes a reverse shell and opens a listener on it.
